@@ -1,5 +1,6 @@
 # Workshop: GitHub Intermedio
 
+
 **Automatización, políticas y releases con GitHub Actions**
 
 Nivel: intermedio en Git y GitHub, principiante absoluto en Actions
